@@ -1,0 +1,19 @@
+remote me jis branch ko push kar rahe hai krupa karke us branch me ap rahen.
+
+git remote 
+git remote -v
+
+git remote add origin repositery_link_from_that_github
+git push -u origin master
+
+git remote 
+git remote -v
+
+git push origin branchname
+
+
+
+
+git push origin branchname:new-name-of-branch
+
+git push -d origin branch // branch we want to delete in remote

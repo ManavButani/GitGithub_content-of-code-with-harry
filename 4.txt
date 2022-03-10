@@ -1,0 +1,6 @@
+git status
+git init //to create repository or to go inside master branch 
+git add --a //(staging area ma add thase all files)
+git add filename // staging area ma add thase perticular files
+git commit -m "message one commit"
+git log //(batavse k ketla commit karya 6 with name)

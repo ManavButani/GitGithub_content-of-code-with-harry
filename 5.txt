@@ -1,0 +1,6 @@
+rm -rf .git //very danger command it will delete .git folder means that there is no concept of verson control so be carefull
+git clone url
+git clone url newgivenname
+pwd
+ls
+cd directory_path

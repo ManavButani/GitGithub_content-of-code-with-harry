@@ -1,0 +1,14 @@
+git alias matlab k shortcut
+
+git config --global alias.st status
+	have git status ni jagya ae git st lakhasu to b same run thase
+
+git config --global alias.ci commit
+git ci
+git restore --staged --filename //unstage karse file n
+git config --global alias.unstage 'restore --staged --'
+git unstage
+
+git config --global alias.last 'log -p -1'
+git last
+	shows last one commit

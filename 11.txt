@@ -1,0 +1,22 @@
+rm -rf .git // remove .git folder means no longer repositery
+git log -p // similar as git diff command shows that chages in commit to commit
+git log -p 5 // last five commit difference
+git log --stat // brief summary of changes in commit
+git log --prety=one // commit change in one line
+git log --prety=short // only author name and commit diff
+git log --prety=full // auther name,commit with msg
+git log --since=2.months
+git log --since=1.days
+git log --since=3.weeks
+last changes in given n time of k duration
+
+git log -p -1
+	 one commit only
+q
+	for quite
+
+git commit --amend
+	to change the commit msg with respect with same author name
+	i for edit
+	esq :wq for exit from vi
+a command no purpose 6 k every time commit thati complexity n reduce karvo if want

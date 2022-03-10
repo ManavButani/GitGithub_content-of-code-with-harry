@@ -1,0 +1,6 @@
+git commit -a -m "direct commit without staging"
+
+	in git commit -a -m untracked file is not pushed to 
+the reposetry.
+	the files which is going to be pushed is tracked means that the
+it was added to staging area before this process.

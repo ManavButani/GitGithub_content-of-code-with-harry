@@ -1,0 +1,7 @@
+git diff
+
+	git diff compares the file of working directory and
+staging area.
+
+git diff --stage
+	git diff --stage compare last commit and staging area.

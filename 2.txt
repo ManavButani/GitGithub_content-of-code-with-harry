@@ -1,0 +1,9 @@
+git confige --global user.name "Swami"
+git confige --global user.email "manavkrenil@gmail.com"
+git confige --list
+
+git confige --global core.editor emas
+git confige --global core.editor vim
+
+git confige user.name
+git confige user.email

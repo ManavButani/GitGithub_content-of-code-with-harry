@@ -1,0 +1,14 @@
+highly recommend to working tree clean when shifting the branch
+
+In this video we have seen live demo of merging branches
+
+git merge branchname
+// merge the branch with master
+
+git status
+you have unmerged paths
+
+git add .
+
+merge conflict tyare ave jyare system n lage k bey important 6
+bey changes

@@ -1,0 +1,9 @@
+about .gitingnore
+
+touch filename //create file in working directory
+touch .gitignore
+
+in gitignore we write file name which we don't want to add in our repositry for any reasone
+*.log means that ignore all the .log files
+dir/ all the dir files including subfolders will be ingnored
+/dir/ subdirectory dir file would not be ingnored means added into the repostory

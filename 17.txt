@@ -1,0 +1,13 @@
+git add .
+	is also used for merge branches
+
+git branch -v
+	is se commit ka hash or commit ka message milta hai
+
+git branch --merged //already merged branches 
+git branch --no-merged //not already merged branches
+
+git branch -d nameofbranch // delete branch who is used in merged
+git branch -D same // single branch who is not merged going to delet
+
+git log

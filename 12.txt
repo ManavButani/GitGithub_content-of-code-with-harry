@@ -1,0 +1,14 @@
+git init
+git status
+git add .
+git commit -m "msg"
+
+how to unstage any file ?
+	git restore --staged first_renamed.txt
+
+what if we modified any file and we think that was a mistake and 
+want previous file?
+	git checkout -- filename
+
+we modified multiple files and want that previous unmodified status?
+	git checkout -f

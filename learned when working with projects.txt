@@ -1,0 +1,4 @@
+git add * :/
+
+when we done git add .
+but still not added to staging area then use above command.

@@ -1,0 +1,17 @@
+branch
+
+	git restore filename // juni file ma je edit thayu aene restore karse
+
+git checkout -b newbranch
+	// creates new branch and divert to that branch
+
+git checkout master
+	// redirects to master branch
+
+rm -rf .git //removes .git folder means that no longer git 
+
+git commit -a -m "message" // direct commit without the staging
+
+git checkout branch_name_in_which_we_want_to_dive
+
+git branch

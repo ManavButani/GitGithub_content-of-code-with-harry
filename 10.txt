@@ -1,0 +1,15 @@
+git rm third.txt
+	
+	remove the file, and already added to staging area.
+
+when we delete manually then it not added to the staging area.
+
+as same scenario with
+git mv first.txt to swami.txt
+	rename first.txt to swami.txt along added to staging area.
+
+apde already tracked thati file n gitignore ma add kari pachhi tracked file ma chages karsu n 
+git status ma josu to aena modification batavse
+
+to tracked file n untracked file ma nakhava mate
+git rm --cached filename
